@@ -1571,7 +1571,7 @@ __metadata:
   dependencies:
     "@orama/orama": "npm:^3.1.18"
     "@tailwindcss/postcss": "npm:^4.1.18"
-    "@takumi-rs/image-response": "npm:^0.68.17"
+    "@takumi-rs/image-response": "npm:^0.69.0"
     "@types/gh-pages": "npm:^6"
     "@types/mdx": "npm:^2.0.13"
     "@types/node": "npm:^25.2.3"
@@ -6472,74 +6472,74 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-darwin-arm64@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-darwin-arm64@npm:0.68.17"
+"@takumi-rs/core-darwin-arm64@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-darwin-arm64@npm:0.69.5"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-darwin-x64@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-darwin-x64@npm:0.68.17"
+"@takumi-rs/core-darwin-x64@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-darwin-x64@npm:0.69.5"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-linux-arm64-gnu@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-linux-arm64-gnu@npm:0.68.17"
+"@takumi-rs/core-linux-arm64-gnu@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-linux-arm64-gnu@npm:0.69.5"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-linux-arm64-musl@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-linux-arm64-musl@npm:0.68.17"
+"@takumi-rs/core-linux-arm64-musl@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-linux-arm64-musl@npm:0.69.5"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-linux-x64-gnu@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-linux-x64-gnu@npm:0.68.17"
+"@takumi-rs/core-linux-x64-gnu@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-linux-x64-gnu@npm:0.69.5"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-linux-x64-musl@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-linux-x64-musl@npm:0.68.17"
+"@takumi-rs/core-linux-x64-musl@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-linux-x64-musl@npm:0.69.5"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-win32-arm64-msvc@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-win32-arm64-msvc@npm:0.68.17"
+"@takumi-rs/core-win32-arm64-msvc@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-win32-arm64-msvc@npm:0.69.5"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@takumi-rs/core-win32-x64-msvc@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core-win32-x64-msvc@npm:0.68.17"
+"@takumi-rs/core-win32-x64-msvc@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core-win32-x64-msvc@npm:0.69.5"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
 
-"@takumi-rs/core@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/core@npm:0.68.17"
+"@takumi-rs/core@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/core@npm:0.69.5"
   dependencies:
-    "@takumi-rs/core-darwin-arm64": "npm:0.68.17"
-    "@takumi-rs/core-darwin-x64": "npm:0.68.17"
-    "@takumi-rs/core-linux-arm64-gnu": "npm:0.68.17"
-    "@takumi-rs/core-linux-arm64-musl": "npm:0.68.17"
-    "@takumi-rs/core-linux-x64-gnu": "npm:0.68.17"
-    "@takumi-rs/core-linux-x64-musl": "npm:0.68.17"
-    "@takumi-rs/core-win32-arm64-msvc": "npm:0.68.17"
-    "@takumi-rs/core-win32-x64-msvc": "npm:0.68.17"
+    "@takumi-rs/core-darwin-arm64": "npm:0.69.5"
+    "@takumi-rs/core-darwin-x64": "npm:0.69.5"
+    "@takumi-rs/core-linux-arm64-gnu": "npm:0.69.5"
+    "@takumi-rs/core-linux-arm64-musl": "npm:0.69.5"
+    "@takumi-rs/core-linux-x64-gnu": "npm:0.69.5"
+    "@takumi-rs/core-linux-x64-musl": "npm:0.69.5"
+    "@takumi-rs/core-win32-arm64-msvc": "npm:0.69.5"
+    "@takumi-rs/core-win32-x64-msvc": "npm:0.69.5"
   dependenciesMeta:
     "@takumi-rs/core-darwin-arm64":
       optional: true
@@ -6557,32 +6557,32 @@ __metadata:
       optional: true
     "@takumi-rs/core-win32-x64-msvc":
       optional: true
-  checksum: 10/4579ed8c5c13656945faed1be81a98c56ef5a95a434a8e07007014d490c55a6e7cdeaf62bf7cd35619bfde20ef9c0e1801af609a2da8bf647842d47d9b686d3f
+  checksum: 10/8d3c27be19254e17fb96846586d77965b994cef71a94ed077356d4eb9ac6c8f331dbf670b135bbeee1bb536a9df3d57068926952f881fc988dd04d09485e6f14
   languageName: node
   linkType: hard
 
-"@takumi-rs/helpers@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/helpers@npm:0.68.17"
-  checksum: 10/439ee2e894ae09ef0d4ca220c0275fcaca87fa82dd82bd01fdbee0a24ea632ea7605aba0cb470ae757cb8fa86d8bea3532a0e5046a1d400af3a138327d09ca04
+"@takumi-rs/helpers@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/helpers@npm:0.69.5"
+  checksum: 10/66efed0da06911e95c2877993b0899eb17b2617221fb2c3396a19518c794e6380ef9f8ef6e4de776e1f39cd21a774a1d9bb0c28ebd4ca199d3dac78c39de00e9
   languageName: node
   linkType: hard
 
-"@takumi-rs/image-response@npm:^0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/image-response@npm:0.68.17"
+"@takumi-rs/image-response@npm:^0.69.0":
+  version: 0.69.5
+  resolution: "@takumi-rs/image-response@npm:0.69.5"
   dependencies:
-    "@takumi-rs/core": "npm:0.68.17"
-    "@takumi-rs/helpers": "npm:0.68.17"
-    "@takumi-rs/wasm": "npm:0.68.17"
-  checksum: 10/5e1759f08726b3964114de5ff980f3fe226f2d3963b19df9fc621d02247526e07d5e624978260c78eba7bbf8391c30f599438a0c63abda39da5356db4d1ff10b
+    "@takumi-rs/core": "npm:0.69.5"
+    "@takumi-rs/helpers": "npm:0.69.5"
+    "@takumi-rs/wasm": "npm:0.69.5"
+  checksum: 10/f6304203032d1cdeb056c32aa4714625798a9d591ef2d0228ccd62831e352d6fb8b27395089a8a411dc54bd573a05d81b67aa3e30380a820fbcf8fb1dc49d1ce
   languageName: node
   linkType: hard
 
-"@takumi-rs/wasm@npm:0.68.17":
-  version: 0.68.17
-  resolution: "@takumi-rs/wasm@npm:0.68.17"
-  checksum: 10/f5a0d9daee2bdba26ee4105a60ba9ec487461da93dc3b20f51b9be9f328b2a12f5dc7d1993741e1e9d359c5b858431e3c780f6938cb5106f217d1ff848f7512f
+"@takumi-rs/wasm@npm:0.69.5":
+  version: 0.69.5
+  resolution: "@takumi-rs/wasm@npm:0.69.5"
+  checksum: 10/667b18e263bf8f7b85b45389204c8e5b96b07344b1bce62beadf177a69a27059162b08634e2bc92f0ed5da940f515b1271f3caca93911a8eb9155a00768cce01
   languageName: node
   linkType: hard
 
